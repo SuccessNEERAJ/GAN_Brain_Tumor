@@ -26,4 +26,4 @@ The model generates synthetic MRI images with realistic tumor patterns. Below ar
 
 ## License 
 
-Neeraj Jaiswal
+Neeraj Jaiswal & Karanbir Singh
